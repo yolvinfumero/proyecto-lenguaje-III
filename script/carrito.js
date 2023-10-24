@@ -1,0 +1,1 @@
+const carinfo = document.querySelector('.cont-dos');
